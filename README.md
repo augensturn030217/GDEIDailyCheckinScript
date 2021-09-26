@@ -22,3 +22,8 @@ password="xxxx"
 Secondly,add task to crontab
 
 I recommend that you should run this script after 6:00 AM CST due to ChenWujian
+
+
+# Result
+
+if the script return "11",it means that you have successfully finished daily checkin and ChenWuJian tasks.
