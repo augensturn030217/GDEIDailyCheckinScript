@@ -2,6 +2,15 @@
 Linux shell script for daily checkin tasks in GDEI
 
 
+# System Requirement
+
+Linux Platform
+
+The following tools are **REQUIRED**
+
+curl
+cron
+
 # Usage
 
 Firstly,open the "checkin.sh" and fill your username and password in the following codes
