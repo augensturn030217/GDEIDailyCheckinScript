@@ -68,7 +68,9 @@ if the script return "35",it means that daily tasks have already been finished.
 ## 脚本返回结果
 
 返回41，说明你的每日打卡要重新填表
+
 返回11，说明已经完成打卡和晨午检
+
 返回35，说明你今天已经完成过打卡和晨午检
 
 
