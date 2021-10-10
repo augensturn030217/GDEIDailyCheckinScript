@@ -31,6 +31,12 @@ if the script return "11",it means that you have successfully finished daily che
 
 if the script return "35",it means that daily tasks have already been finished.
 
+# Security
+
+This script **DO NOT** save or upload your account and password,which is a open source project using MIT License.
+
+You can check the script by yourself.
+
 # 中文说明
 
 ## 系统环境要求
