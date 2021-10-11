@@ -48,6 +48,8 @@ You can check the script by yourself.
 
 
 个人推荐Debian
+或者
+腾讯云云函数（免费的不香咩）
 
 
 ## 使用方法
