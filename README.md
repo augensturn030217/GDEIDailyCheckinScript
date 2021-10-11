@@ -93,7 +93,9 @@ You can check the script by yourself.
 
 **不要使用checkin.sh!!!** 
 
-然后打开腾讯云云函数，复制**tencentcloud-checkin.sh**内容粘贴到index.sh。
+新建云函数选择**自定义创建**，运行环境选择**CustomRuntime**
+
+复制**tencentcloud-checkin.sh**内容粘贴到index.sh。
 
 地点请选择**上海！！！**
 
