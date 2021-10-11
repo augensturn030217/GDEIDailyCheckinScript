@@ -88,7 +88,7 @@ You can check the script by yourself.
 
 **不要使用checkin.sh!!!** 
 
-然后打开腾讯云云函数，复制代码进去粘贴。
+然后打开腾讯云云函数，复制**tencentcloud-checkin.sh**内容粘贴到index.sh。
 
 地点请选择**上海！！！**
 
