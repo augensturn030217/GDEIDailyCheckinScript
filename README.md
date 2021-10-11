@@ -82,8 +82,8 @@ You can check the script by yourself.
 
 ## 腾讯云云函数拓展版（未经测试）
 
-照常填入你的校园网用户名和密码到 ** tencentcloud-checkin.sh *
-** 不要使用checkin.sh!!! ** 
+照常填入你的校园网用户名和密码到 **tencentcloud-checkin.sh**
+**不要使用checkin.sh!!!** 
 然后打开腾讯云云函数，复制代码进去粘贴。
 
 然后务必运行一次调试，看看脚本是否返回如上说明的数值，如果不是，**很有可能学校屏蔽了**
