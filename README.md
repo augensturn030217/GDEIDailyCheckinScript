@@ -31,6 +31,11 @@ if the script return "11",it means that you have successfully finished daily che
 
 if the script return "35",it means that daily tasks have already been finished.
 
+# Tencent Cloud Version
+
+For some reasons,there is no document for it in English.
+Read Chinese document,please.
+
 # Security
 
 This script **DO NOT** save or upload your account and password,which is a open source project using MIT License.
